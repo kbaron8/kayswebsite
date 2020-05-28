@@ -1,0 +1,16 @@
+.header {
+    padding: 25px;
+    text-allign: center;
+    background: salmon;
+    color: white;
+    font-size: 30px;
+    font-family: monospace;
+    
+}
+.aboutme {
+    background: cornsilk;
+    font-family: monospace;
+}
+h3 {
+    text-decoration: underline;
+  }
